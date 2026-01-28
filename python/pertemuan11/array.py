@@ -1,3 +1,4 @@
+
 nim = input("Masukkan NIM: ")
 
 digit = [int(c) for c in nim]
